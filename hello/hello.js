@@ -1,9 +1,9 @@
 /**
  * @Author: photowey
  * @Date: 2023/03/15 09:39:48
- * @LastEditTime: 2023/03/15 10:06:11
+ * @LastEditTime: 2023/03/15 10:07:36
  * @LastEditors: photowey
- * @Description: NodeJS hello project
+ * @Description: NodeJS hello module
  * @FilePath: /hello.js/hello/hello.js
  * @Copyright (c) 2023 by photowey/photowey@gmail.com All Rights Reserved
  */
