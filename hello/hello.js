@@ -5,7 +5,7 @@
  * @LastEditors: photowey
  * @Description: NodeJS hello module
  * @FilePath: /hello.js/hello/hello.js
- * @Copyright (c) 2023 by photowey/photowey@gmail.com All Rights Reserved
+ * @Copyright (c) 2023 by photowey<photowey@gmail.com> All Rights Reserved
  */
 console.log('Hello World~')
 
